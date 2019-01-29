@@ -1,4 +1,5 @@
 {
     "terminal.explorerKind": "external",
-    "terminal.integrated.shell.osx": "/bin/zsh"
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "terminal.integrated.shellArgs.osx": []
 }
